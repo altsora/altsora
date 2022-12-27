@@ -1,6 +1,18 @@
-<h1 align="center">🅷🅸 🆃🅷🅴🆁🅴, 🅸'🅼 🅰🅻🆃🆂🅾🆁🅰
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
+<h1 align="center">🅷🅸 🆃🅷🅴🆁🅴, 🅸'🅼 🅰🅻🆃🆂🅾🆁🅰</h1>
+
+<!-- <p  align="center"
+  <code><img width="7%" title="Test" src="logo/dotenv.svg"></code>
+</p> -->
+
+***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altsora)](https://github.com/anuraghazra/github-readme-stats)
+***
+[![codewars](https://www.codewars.com/users/Altsora/badges/large)](https://www.codewars.com/users/Altsora)   
+
+
+
+
+  
 
 
 <!--

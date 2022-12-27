@@ -1,7 +1,5 @@
 <h1 align="center">🅷🅸 🆃🅷🅴🆁🅴, 🅸'🅼 🅰🅻🆃🆂🅾🆁🅰</h1>
 
-## Применяемые технологии и инструменты
-
 <p  align="center">
   <code><img width="7%" title="Junit5" src="logo/Junit5.svg"></code>
   <code><img width="7%" title="Java" src="logo/Java.svg"></code>
@@ -11,17 +9,14 @@
   <code><img width="7%" title="Jenkins" src="logo/Jenkins.svg"></code>
   <code><img width="7%" title="postgresql" src="logo/postgresql.svg"></code>
   <code><img width="7%" title="hibernate" src="logo/hibernate.svg"></code>
+  <code><img width="4%" title="kafka" src="logo/kafka.svg"></code>
+  <code><img width="7%" title="postman" src="logo/postman.svg"></code>
 </p>
-
 
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altsora)](https://github.com/anuraghazra/github-readme-stats)
 ***
-
 [![codewars](https://www.codewars.com/users/Altsora/badges/large)](https://www.codewars.com/users/Altsora)   
-
-  
-
 
 <!--
 **altsora/altsora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

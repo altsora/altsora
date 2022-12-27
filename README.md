@@ -2,9 +2,16 @@
 
 ## Применяемые технологии и инструменты
 
-<!-- <p  align="center"
-  <code><img width="7%" title="Test" src="logo/dotenv.svg"></code>
-</p> -->
+<p  align="center">
+  <code><img width="7%" title="Junit5" src="logo/Junit5.svg"></code>
+  <code><img width="7%" title="Java" src="logo/Java.svg"></code>
+  <code><img width="7%" title="spring" src="logo/spring-boot.svg"></code>
+  <code><img width="7%" title="idea" src="logo/Idea.svg"></code>
+  <code><img width="7%" title="GitHub" src="logo/GitHub.svg"></code>
+  <code><img width="7%" title="Jenkins" src="logo/Jenkins.svg"></code>
+  <code><img width="7%" title="postgresql" src="logo/postgresql.svg"></code>
+  <code><img width="7%" title="hibernate" src="logo/hibernate.svg"></code>
+</p>
 
 
 ***

@@ -16,7 +16,13 @@
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altsora)](https://github.com/anuraghazra/github-readme-stats)
 ***
-[![codewars](https://www.codewars.com/users/Altsora/badges/large)](https://www.codewars.com/users/Altsora)   
+#### 🅲🅾🅳🅴🆆🅰🆁🆂
+
+[![codewars](https://www.codewars.com/users/Altsora/badges/large)](https://www.codewars.com/users/Altsora) 
+  
+#### 🅻🅴🅴🆃🅲🅾🅳🅴
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=altsora&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <!--
 **altsora/altsora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
